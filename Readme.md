@@ -1,5 +1,5 @@
 <h1 align="center">Winit</h1>
-<p align="center">A collection of my favourite Windows 10 tweaks</p
+<p align="center">A collection of my favourite Windows 10 tweaks</p>
 
 
 ### Intro
