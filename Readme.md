@@ -8,7 +8,7 @@ This is my collection of Windows 10 tweaks, settings and tricks to make it bette
 
 Everything is optional, they're just my favourite settings.
 
-
+<br />
 
 ## Step 0: BACKUP!
 
@@ -20,7 +20,7 @@ Back up your registry, because if everything goes south, you should be able to r
 
 If you'll have to restore the settings, simply go to *File* and *Import* the `.reg` file.
 
-
+<br />
 
 ## Step 1: Registry
 
@@ -30,7 +30,7 @@ Here you can see the changes the file will make. If you don't want to apply a pa
 
 When you're finished, exit the editor, and double click on the file to apply it.
 
-
+<br />
 
 ## Step 2: Additional Software
 
@@ -48,10 +48,9 @@ You can get help about time format symbols by clicking on the *T-clock help.rtf*
 
 *(Also, it's advised to start T-clock on system startup. You can find a checkbox for this in the settings)*
 
-
-
 TODO
 
+<br />
 
 ### About
 
