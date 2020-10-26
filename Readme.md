@@ -52,3 +52,9 @@ You can get help about time format symbols by clicking on the *T-clock help.rtf*
 
 TODO
 
+
+### About
+
+A lot of elements are based on [Windows Central's video](https://www.youtube.com/watch?v=GzqIzBn5WLA), I highly recommend atching it.
+
+If you have a suggestion, an idea or a fix, feel free to open an issue.
