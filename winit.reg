@@ -8,8 +8,17 @@ Windows Registry Editor Version 5.00
 "BingSearchEnabled"=dword:00000000
 
 ; Disable Windows defender
-[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows Defender]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
 "DisableAntiSpyware"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection]
+"DisableBehaviorMonitoring"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection]
+"DisableOnAccessProtection"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection]
+"DisableScanOnRealtimeEnable"=dword:00000001
 
 ; Disable SmartScreen popup
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]
