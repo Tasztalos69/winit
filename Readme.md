@@ -54,6 +54,6 @@ TODO
 
 ### About
 
-A lot of elements are based on [Windows Central's video](https://www.youtube.com/watch?v=GzqIzBn5WLA), I highly recommend atching it.
+A lot of elements are based on [Windows Central's video](https://www.youtube.com/watch?v=GzqIzBn5WLA), I highly recommend watching it.
 
 If you have a suggestion, an idea or a fix, feel free to open an issue.
